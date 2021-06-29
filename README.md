@@ -226,8 +226,6 @@ private boolean setmBluetoothGattNotification(BluetoothGatt bluetoothGatt, Bluet
 
 #### 7.参考资料
 
-Demo源码：[BleTestDemo](https://github.com/Shanna-Song/BleTestDemo)
-
 后期可能有些方法被弃用可以查看官方文档对方法进行替换：[Android 开发者  | Android Developers](https://developer.android.google.cn/)
 
 Android移植他人项目：[成功运行和导入别人的android studio项目](https://blog.csdn.net/lance666/article/details/105469146)
