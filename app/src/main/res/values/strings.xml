@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyBleTest</string>
+    <string name="connect_ble">连接蓝牙</string>
+    <string name="connected_ble">已连接的蓝牙:</string>
+    <string name="list_please_wait">请稍后</string>
+    <string name="list_searching_ble">蓝牙搜索中······</string>
+    <string name="list_connect_ble">连接蓝牙</string>
+    <string name="list_disconnect_ble">断开蓝牙</string>
+    <string name="list_open_ble_success">打开蓝牙功能成功！</string>
+    <string name="list_open_ble_error_goto_setting">打开蓝牙功能失败，请到“系统设置”中手动开启蓝牙功能！</string>
+    <string name="list_not_support_ble">该手机不支持蓝牙</string>
+    <string name="list_select_ble">选择要连接的蓝牙：</string>
+    <string name="list_ok">确定</string>
+    <string name="list_connecting_ble">蓝牙连接中......</string>
+    <string name="list_disconnecting_ble">蓝牙断开中......</string>
+    <string name="list_cancel">取消</string>
+</resources>
